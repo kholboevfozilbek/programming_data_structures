@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624015597 source:d:\2 semester\programming and data structures\set\set container\main_test.cpp
+	<iostream>
+	"set_ADT.h"
+
+1624015499 d:\2 semester\programming and data structures\set\set container\set_adt.h
+	<iostream>
+	<stdexcept>
+

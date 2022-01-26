@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621152297 source:d:\2 semester\programming and data structures\linked list\linked_list\list.cpp
+	"list.h"
+
+1621152796 d:\2 semester\programming and data structures\linked list\linked_list\list.h
+
+1621152297 source:d:\2 semester\programming and data structures\linked list\linked_list\main.cpp
+	"list.h"
+

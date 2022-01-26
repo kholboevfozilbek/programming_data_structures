@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620793803 source:d:\2 semester\programming and data structures\queue\bounded_queue\bounded_queue.cpp
+	<iostream>
+	<stdexcept>
+	"bounded_Queue.h"
+
+1620793492 d:\2 semester\programming and data structures\queue\bounded_queue\bounded_queue.h
+
+1620793945 source:d:\2 semester\programming and data structures\queue\bounded_queue\queue_test.cpp
+	<iostream>
+	"bounded_Queue.h"
+

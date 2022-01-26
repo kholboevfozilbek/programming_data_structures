@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620571230 source:d:\2 semester\programming and data structures\labarotory\lab3\ex1\main.cpp
+	<iostream>
+	"bounded_lib.h"
+
+1620571149 d:\2 semester\programming and data structures\labarotory\lab3\ex1\bounded_lib.h
+
+1620571165 source:d:\2 semester\programming and data structures\labarotory\lab3\ex1\bounded_lib.cpp
+	<iostream>
+	<stdexcept>
+	"bounded_lib.h"
+

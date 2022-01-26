@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620697898 source:d:\2 semester\programming and data structures\queue\me_try_queue\main.cpp
+	<iostream>
+	<stdexcept>
+

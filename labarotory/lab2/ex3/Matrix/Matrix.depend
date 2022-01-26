@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619449766 source:d:\2 semester\programming and data structures\labarotory\lab2\ex3\matrix\matrix_lib.cpp
+	<iostream>
+	"Matrix_lib.h"
+
+1619449766 d:\2 semester\programming and data structures\labarotory\lab2\ex3\matrix\matrix_lib.h
+	<stdexcept>
+	<iostream>
+
+1619449706 source:d:\2 semester\programming and data structures\labarotory\lab2\ex3\matrix\main.cpp
+	<iostream>
+	"Matrix_lib.h"
+

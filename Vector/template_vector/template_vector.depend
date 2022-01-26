@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621546814 source:d:\2 semester\programming and data structures\vector\template_vector\vector_test.cpp
+	<iostream>
+	"generic_vector.h"
+
+1621547311 d:\2 semester\programming and data structures\vector\template_vector\generic_vector.h
+	<iostream>
+	<stdexcept>
+
+1621545555 source:d:\2 semester\programming and data structures\vector\template_vector\generic_vector.cpp
+	<iostream>
+	"generic_vector.h"
+

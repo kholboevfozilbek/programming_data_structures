@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620226593 source:d:\2 semester\programming and data structures\stacks\bounded_stack\main.cpp
+	<iostream>
+	"lib_stack.h"
+
+1620226567 d:\2 semester\programming and data structures\stacks\bounded_stack\lib_stack.h
+
+1620226567 source:d:\2 semester\programming and data structures\stacks\bounded_stack\lib_stack.cpp
+	<iostream>
+	<stdexcept>
+	"lib_stack.h"
+
+1620226655 source:d:\2 semester\programming and data structures\stacks\3 bounded_stack\lib_stack.cpp
+	<iostream>
+	<stdexcept>
+	"lib_stack.h"
+
+1620226567 d:\2 semester\programming and data structures\stacks\3 bounded_stack\lib_stack.h
+
+1620226593 source:d:\2 semester\programming and data structures\stacks\3 bounded_stack\main.cpp
+	<iostream>
+	"lib_stack.h"
+

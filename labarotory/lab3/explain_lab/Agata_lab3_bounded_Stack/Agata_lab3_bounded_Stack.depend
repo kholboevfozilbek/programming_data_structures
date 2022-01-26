@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620562544 source:d:\2 semester\programming and data structures\labarotory\lab3\explain_lab\agata_lab3_bounded_stack\main.cpp
+	<iostream>
+	"lib_stack.h"
+
+1620562020 d:\2 semester\programming and data structures\labarotory\lab3\explain_lab\agata_lab3_bounded_stack\lib_stack.h
+
+1620562020 source:d:\2 semester\programming and data structures\labarotory\lab3\explain_lab\agata_lab3_bounded_stack\lib_stack.cpp
+	<iostream>
+	<stdexcept>
+	"lib_stack.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623571018 source:d:\2 semester\programming and data structures\labarotory\lab6\re\template_unbounded_queu_linked_list\implementations_methods.cpp
+
+1623573484 source:d:\2 semester\programming and data structures\labarotory\lab6\re\template_unbounded_queu_linked_list\main.cpp
+	<iostream>
+	"interface_library.h"
+
+1623573484 d:\2 semester\programming and data structures\labarotory\lab6\re\template_unbounded_queu_linked_list\interface_library.h
+	<iostream>
+	<stdexcept>
+

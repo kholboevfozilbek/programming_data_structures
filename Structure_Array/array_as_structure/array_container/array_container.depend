@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621688917 source:d:\2 semester\programming and data structures\structure_array\array_as_structure\array_container\container_array.cpp
+	<iostream>
+	<stdexcept>
+	"container_array.h"
+
+1621688576 d:\2 semester\programming and data structures\structure_array\array_as_structure\array_container\container_array.h
+
+1621688895 source:d:\2 semester\programming and data structures\structure_array\array_as_structure\array_container\main.cpp
+	<iostream>
+	"container_array.h"
+

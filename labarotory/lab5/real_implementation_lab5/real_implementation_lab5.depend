@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621485989 source:d:\2 semester\programming and data structures\labarotory\lab5\real_implementation_lab5\unbounded_stack.cpp
+	<iostream>
+	<stdexcept>
+	"unbounded_stack.h"
+
+1621485989 d:\2 semester\programming and data structures\labarotory\lab5\real_implementation_lab5\unbounded_stack.h
+
+1621486094 source:d:\2 semester\programming and data structures\labarotory\lab5\real_implementation_lab5\main_test.cpp
+	<iostream>
+	"unbounded_stack.h"
+

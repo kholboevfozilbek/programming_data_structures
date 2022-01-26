@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618650515 source:d:\2 semester\programming and data structures\gr34\lab1\lib.cpp
+	"lib.h"
+	<iostream>
+	<stdexcept>
+
+1618651343 d:\2 semester\programming and data structures\gr34\lab1\lib.h
+	<iostream>
+	<string>
+
+1618648692 source:d:\2 semester\programming and data structures\gr34\lab1\structures.cpp
+	<iostream>
+	<string>
+	"lib.h"
+

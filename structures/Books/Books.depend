@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619510744 source:d:\2 semester\programming and data structures\structures\books_structures_example.cpp
+	<iostream>
+	<cstdlib>
+	"Books_lib.h"
+
+1619446954 d:\2 semester\programming and data structures\structures\books_lib.h
+	<iostream>
+	<string>
+
+1619511219 source:d:\2 semester\programming and data structures\structures\books_lib.cpp
+	<iostream>
+	<stdexcept>
+	"Books_lib.h"
+

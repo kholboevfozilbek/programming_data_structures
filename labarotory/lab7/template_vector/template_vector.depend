@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621714115 source:d:\2 semester\programming and data structures\labarotory\lab7\template_vector\main.cpp
+	<iostream>
+	"template_vector_lib.h"
+
+1621708334 source:d:\2 semester\programming and data structures\labarotory\lab7\template_vector\template_vector_lib.cpp
+
+1621714293 d:\2 semester\programming and data structures\labarotory\lab7\template_vector\template_vector_lib.h
+	<iostream>
+	<stdexcept>
+

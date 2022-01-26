@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620730883 source:d:\2 semester\programming and data structures\queue\fixed_queue\queue_test.cpp
+	<iostream>
+	<stdexcept>
+	"fixed_Queue.h"
+
+1620730678 source:d:\2 semester\programming and data structures\queue\fixed_queue\fixed_queue.cpp
+	<iostream>
+	<stdexcept>
+	"fixed_Queue.h"
+
+1620731011 d:\2 semester\programming and data structures\queue\fixed_queue\fixed_queue.h
+	<stdexcept>
+

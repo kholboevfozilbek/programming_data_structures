@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622274412 source:d:\2 semester\programming and data structures\labarotory\lab9\exercise2\main.cpp
+	<iostream>
+	"Sorted_LIst_Of_Objects.h"
+	<string>
+
+1622271150 d:\2 semester\programming and data structures\labarotory\lab9\exercise2\sorted_list_of_objects.h
+	<iostream>
+	<stdexcept>
+

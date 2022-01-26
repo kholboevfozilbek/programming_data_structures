@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615880722 source:d:\2 semester\programming and data structures\gr34\lab2\main.cpp
+	"lib_frac.h"
+
+1615881842 d:\2 semester\programming and data structures\gr34\lab2\lib_frac.h
+
+1615881755 source:d:\2 semester\programming and data structures\gr34\lab2\lib_frac.cpp
+	<iostream>
+	<stdexcept>
+	"lib_frac.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622240514 source:d:\2 semester\programming and data structures\labarotory\lab9\sorted_list_singly_linked\sorted_list\main.cpp
+	<iostream>
+	"Sorted_List_template.h"
+
+1622240352 d:\2 semester\programming and data structures\labarotory\lab9\sorted_list_singly_linked\sorted_list\sorted_list_template.h
+	<iostream>
+	<stdexcept>
+

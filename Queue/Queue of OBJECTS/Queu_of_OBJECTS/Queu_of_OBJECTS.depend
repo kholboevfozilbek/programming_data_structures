@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622313907 source:d:\2 semester\programming and data structures\queue\queue of objects\queu_of_objects\main.cpp
+	<iostream>
+	"template_unbounded_Queue_of_Objects.h"
+
+1622314141 d:\2 semester\programming and data structures\queue\queue of objects\queu_of_objects\template_unbounded_queue_of_objects.h
+	<iostream>
+	<stdexcept>
+	<string>
+

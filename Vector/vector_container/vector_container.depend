@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621521343 source:d:\2 semester\programming and data structures\vector\vector_container\main_test.cpp
+	"vector_as_structure.h"
+
+1621521205 d:\2 semester\programming and data structures\vector\vector_container\vector_as_structure.h
+	<iostream>
+	<stdexcept>
+
+1621521390 source:d:\2 semester\programming and data structures\vector\vector_container\vector_as_structure.cpp
+	<iostream>
+	<stdexcept>
+	"vector_as_structure.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621611856 source:d:\2 semester\programming and data structures\structure_array\template_array\main.cpp
+	<iostream>
+	"template_array_lib.h"
+
+1621611556 d:\2 semester\programming and data structures\structure_array\template_array\template_array_lib.h
+	<stdexcept>
+	<iostream>
+

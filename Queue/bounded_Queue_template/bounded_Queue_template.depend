@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622014948 source:d:\2 semester\programming and data structures\queue\bounded_queue_template\main.cpp
+	<iostream>
+	"template_Queue.h"
+
+1622014777 d:\2 semester\programming and data structures\queue\bounded_queue_template\template_queue.h
+	<iostream>
+	<stdexcept>
+

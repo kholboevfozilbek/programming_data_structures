@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621063943 source:d:\2 semester\programming and data structures\labarotory\lab4\balance_ubqueue\queue.test_main.cpp
+	<iostream>
+	"balance_lib.h"
+
+1621064133 d:\2 semester\programming and data structures\labarotory\lab4\balance_ubqueue\balance_lib.h
+
+1621064133 source:d:\2 semester\programming and data structures\labarotory\lab4\balance_ubqueue\balance_lib.cpp
+	<iostream>
+	<stdexcept>
+	"balance_lib.h"
+

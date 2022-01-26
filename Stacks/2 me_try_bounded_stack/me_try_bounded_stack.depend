@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620312745 source:d:\2 semester\programming and data structures\stacks\me_try_bounded_stack\test_stack_main.cpp
+	<iostream>
+	"bounded_stack.h"
+
+1620312948 d:\2 semester\programming and data structures\stacks\me_try_bounded_stack\bounded_stack.h
+
+1620312731 source:d:\2 semester\programming and data structures\stacks\me_try_bounded_stack\bounded_stack.cpp
+	<iostream>
+	<stdexcept>
+	"bounded_stack.h"
+

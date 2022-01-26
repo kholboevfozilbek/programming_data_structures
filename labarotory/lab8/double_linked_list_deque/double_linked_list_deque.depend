@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621885485 source:d:\2 semester\programming and data structures\labarotory\lab8\double_linked_list_deque\main_test.cpp
+	<iostream>
+	"double_linked_list.h"
+
+1621885511 d:\2 semester\programming and data structures\labarotory\lab8\double_linked_list_deque\double_linked_list.h
+	<iostream>
+	<stdexcept>
+

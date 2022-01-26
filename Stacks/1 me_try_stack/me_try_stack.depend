@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620301842 source:d:\2 semester\programming and data structures\stacks\me_try_stack\fixed_stack_lib.cpp
+	<iostream>
+	<stdexcept>
+	"fixed_stack_lib.h"
+
+1620301797 d:\2 semester\programming and data structures\stacks\me_try_stack\fixed_stack_lib.h
+
+1620301809 source:d:\2 semester\programming and data structures\stacks\me_try_stack\main.cpp
+	<iostream>
+	"fixed_stack_lib.h"
+
+1620301842 source:d:\2 semester\programming and data structures\stacks\1 me_try_stack\fixed_stack_lib.cpp
+	<iostream>
+	<stdexcept>
+	"fixed_stack_lib.h"
+
+1620301797 d:\2 semester\programming and data structures\stacks\1 me_try_stack\fixed_stack_lib.h
+
+1620301873 source:d:\2 semester\programming and data structures\stacks\1 me_try_stack\main.cpp
+	<iostream>
+	"fixed_stack_lib.h"
+

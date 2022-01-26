@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622218819 source:d:\2 semester\programming and data structures\sorted_list\implemented_as_linked_list\descending_sorted_list\main.cpp
+	<iostream>
+	"Descending_List.h"
+
+1622218719 d:\2 semester\programming and data structures\sorted_list\implemented_as_linked_list\descending_sorted_list\descending_list.h
+	<stdexcept>
+

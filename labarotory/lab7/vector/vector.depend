@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621696521 source:d:\2 semester\programming and data structures\labarotory\lab7\vector\main.cpp
+	<iostream>
+	"vector_container.h"
+
+1621696528 source:d:\2 semester\programming and data structures\labarotory\lab7\vector\vector_container.cpp
+	<iostream>
+	<stdexcept>
+	"vector_container.h"
+
+1621696521 d:\2 semester\programming and data structures\labarotory\lab7\vector\vector_container.h
+

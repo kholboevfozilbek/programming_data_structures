@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619411025 source:d:\2 semester\programming and data structures\labarotory\lab2\ex2\geometric_structures\geometric_lib.cpp
+	<iostream>
+	<cmath>
+	"geometric_lib.h"
+
+1619418801 d:\2 semester\programming and data structures\labarotory\lab2\ex2\geometric_structures\geometric_lib.h
+	<cstdlib>
+	<cmath>
+
+1619418801 source:d:\2 semester\programming and data structures\labarotory\lab2\ex2\geometric_structures\main.cpp
+	<iostream>
+	"geometric_lib.h"
+

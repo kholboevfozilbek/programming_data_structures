@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615742164 source:d:\2 semester\programming and data structures\gr34\snake\tictactoe\main.cpp
+	<iostream>
+	<conio.h>
+

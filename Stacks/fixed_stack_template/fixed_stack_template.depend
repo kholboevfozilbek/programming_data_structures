@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621722492 source:d:\2 semester\programming and data structures\stacks\fixed_stack_template\main.cpp
+	<iostream>
+	<string>
+	"fixed_stack_template_lib.h"
+
+1621722593 d:\2 semester\programming and data structures\stacks\fixed_stack_template\fixed_stack_template_lib.h
+	<iostream>
+	<stdexcept>
+

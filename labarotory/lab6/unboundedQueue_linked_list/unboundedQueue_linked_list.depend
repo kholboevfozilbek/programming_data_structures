@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621245278 source:d:\2 semester\programming and data structures\labarotory\lab6\unboundedqueue_linked_list\main_test.cpp
+	<iostream>
+	"linked_list_lib.h"
+
+1621245208 d:\2 semester\programming and data structures\labarotory\lab6\unboundedqueue_linked_list\linked_list_lib.h
+
+1621245208 source:d:\2 semester\programming and data structures\labarotory\lab6\unboundedqueue_linked_list\linked_list_lib.cpp
+	<iostream>
+	<stdexcept>
+	"linked_list_lib.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620985446 source:d:\2 semester\programming and data structures\labarotory\lab4\time_consuming\main.cpp
+	<iostream>
+	"unbounded_lib.h"
+
+1620985446 d:\2 semester\programming and data structures\labarotory\lab4\time_consuming\unbounded_lib.h
+
+1620985446 source:d:\2 semester\programming and data structures\labarotory\lab4\time_consuming\unbounded_lib.cpp
+	<iostream>
+	<stdexcept>
+	"unbounded_lib.h"
+

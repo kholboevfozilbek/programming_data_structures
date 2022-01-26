@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621751436 source:d:\2 semester\programming and data structures\stacks\bounded_stack_template\main.cpp
+	<iostream>
+	"template_stack_lib.h"
+	"Footballer_Entity.h"
+
+1621751368 d:\2 semester\programming and data structures\stacks\bounded_stack_template\template_stack_lib.h
+	<iostream>
+	<stdexcept>
+	"Footballer_Entity.h"
+
+1621751491 d:\2 semester\programming and data structures\stacks\bounded_stack_template\footballer_entity.h
+	<string>
+
